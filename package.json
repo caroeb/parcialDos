@@ -1,0 +1,26 @@
+{
+  "name": "parcialdos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.15.1",
+    "express": "^4.16.3",
+    "handlebars": "^4.0.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caroeb/parcialDos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/caroeb/parcialDos/issues"
+  },
+  "homepage": "https://github.com/caroeb/parcialDos#readme",
+  "devDependencies": {},
+  "description": ""
+}
