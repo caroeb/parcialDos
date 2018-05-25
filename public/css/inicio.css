@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: gold;
+  height: 20%;
+}
+
+button {
+  cursor: pointer;
+  background-color: #c0baba;
+  margin-left: 30px;
+  margin-top: 50px;
+  padding: 10px;
+  color: black;
+  border-radius: 10px;
+  border: solid 0px blue;
+  height: 40px;
+  font-size: 20px;
+}
+/*# sourceMappingURL=inicio.css.map */
